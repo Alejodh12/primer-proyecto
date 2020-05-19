@@ -1,0 +1,21 @@
+.bg-dark{
+background-color: #111111 !important;
+}
+.bg-secondary{
+background-color: #1d1d1d !important;
+}
+.bg-light{
+background-color: #f8f8f8 !important;
+}
+.bg-gray{
+background-color: #d4d4d4;
+}
+.bg-white.rgb-85{
+background-color: rgba(255, 255, 255, 0.85) !important;
+}
+.bg-white.rgb-90{
+background-color: rgba(255, 255, 255, 0.90) !important;
+}
+.bg-dark.rgb-85{
+background-color: rgba(0, 0, 0, 0.85) !important;
+}

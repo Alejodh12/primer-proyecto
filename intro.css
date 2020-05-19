@@ -1,0 +1,31 @@
+* {
+margin: 0;
+padding: 0;
+font-weight: normal;
+font-family: 'Rubik', sans-serif;
+box-sizing: border-box;
+}
+#intro {
+min-height: 100vh;
+}
+.intro-title {
+font-size: 60px;
+font-weight: 400;
+letter-spacing: 3px;
+color: #282828;
+}
+.intro-subtitle {
+font-size: 20px;
+letter-spacing: 3px;
+color: #282828;
+}
+.text-center {
+text-align: center;
+}
+.centrar {
+align-items: center;
+justify-content: center;
+}
+.margin-bottom {
+margin-bottom: 15px;
+}
