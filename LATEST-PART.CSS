@@ -1,3 +1,12 @@
 .padding-section {
-    padding: 130px 0;
+    padding: 120px 0;
+}
+.space-bottom {
+    margin-bottom: 40px;
+}
+h2 {
+font-size: 24px;
+letter-spacing: 6px;
+font-weight: 400;
+margin-bottom: 15px;
 }
